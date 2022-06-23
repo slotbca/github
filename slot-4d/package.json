@@ -1,0 +1,15 @@
+{
+  "name": "slot-4d",
+  "theme": "syntax",
+  "version": "1.0.5",
+  "description": "Situs Slot 4D Terbaru dan Terpercaya 2022",
+  "keywords": [slot 4d] [slot 4d terbaru] [slot 4d Terpercaya]
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/slot-4d",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
